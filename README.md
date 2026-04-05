@@ -55,5 +55,16 @@ The app is built upon a scalable, decoupled Feature/Layer-based architecture:
 1. Clone the repository:
    ```bash
    git clone https://github.com/maazanwar-dotcom/AlgoFlow-DSA-Algorithm-Visualizer-Flutter-.git
+   
+## UI Screenshots
+
+<img width="254" height="520" alt="image" src="https://github.com/user-attachments/assets/7e8c7b00-37ea-4548-9706-f7873c7601df" /> <img width="279" height="575" alt="image" src="https://github.com/user-attachments/assets/df356248-2d60-4ae0-ae6b-8c2b05f17ee7" /> <img width="285" height="561" alt="image" src="https://github.com/user-attachments/assets/1818389e-af29-49d5-8ac4-b20a41eaf2ca" /> <img width="286" height="603" alt="image" src="https://github.com/user-attachments/assets/ce9c20b1-4463-47f5-b6a8-386512bd6a35" /> <img width="286" height="640" alt="image" src="https://github.com/user-attachments/assets/1bcbb460-adb9-4e0f-bd36-00977465e14e" /> <img width="286" height="602" alt="image" src="https://github.com/user-attachments/assets/888459b3-40e0-4398-a71d-c3a7e925e6e2" /> <img width="286" height="607" alt="image" src="https://github.com/user-attachments/assets/ea3d2517-bedf-4199-83d9-a045fd471b1c" />
+
+
+
+
+
+
+
 
 
